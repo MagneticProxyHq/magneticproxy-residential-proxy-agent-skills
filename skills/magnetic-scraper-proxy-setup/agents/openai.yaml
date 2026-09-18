@@ -1,0 +1,6 @@
+interface:
+  display_name: "MagneticProxy Scraper Setup"
+  short_description: "Configure Python, Playwright, and Scrapy"
+  default_prompt: "Use $magnetic-scraper-proxy-setup to create a credential-safe rotating proxy setup for this scraper."
+policy:
+  allow_implicit_invocation: true

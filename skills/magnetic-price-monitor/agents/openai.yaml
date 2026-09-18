@@ -1,0 +1,6 @@
+interface:
+  display_name: "Magnetic Price Monitor"
+  short_description: "Monitor competitor prices by country"
+  default_prompt: "Use $magnetic-price-monitor to design an authorized two-country price-monitoring pilot with evidence and confirmation rules."
+policy:
+  allow_implicit_invocation: true

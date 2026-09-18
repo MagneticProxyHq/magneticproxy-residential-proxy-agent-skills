@@ -1,0 +1,6 @@
+interface:
+  display_name: "MagneticProxy"
+  short_description: "Shared proxy routing and safety guidance"
+  default_prompt: "Use $magneticproxy to create a credential-safe rotating proxy configuration for this permitted workflow."
+policy:
+  allow_implicit_invocation: true

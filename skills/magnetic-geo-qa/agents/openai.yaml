@@ -1,0 +1,6 @@
+interface:
+  display_name: "MagneticProxy Geo QA"
+  short_description: "Compare landing pages across countries"
+  default_prompt: "Use $magnetic-geo-qa to design a two-country landing-page QA run with screenshots and verified exits."
+policy:
+  allow_implicit_invocation: true
